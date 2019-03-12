@@ -1,7 +1,7 @@
 {
 	"html": "fate.html",
 	"css": "fate.css",
-	"authors": "Andrew Bailey (krathognis) and Devindra Payment (@Ardnived)",
+	"authors": "Andrew Bailey (krathognis), Devindra Payment (@Ardnived), Maetco, and Joseph Cloutier (player-03)",
 	"preview": "fate.png",
-	"instructions": "# Fate Core Character Sheet.\r## Useful Attributes\r\r* ID\r* Description\r* Refresh\r* Fate\r* HighConcept\r* Trouble \r* Skill attributes are listed as follows\r** Sup1 - Sup5\r** Great1 - Great 5\r**  Good1 - Good 5\r** Fair1 - Fair5\r**  Avg1 - Avg5\r* Physica Stress (Phy1 - Phy5)\r* Mental Stress (Men1 - Men5)<h1>"
+	"instructions": "# Fate Core Character Sheet\r## Hidden features\rSince not all campaigns use a third stress track or skills better than Superb (+5), these are hidden by default. To enable them, set \"FantasticActive\" and/or \"ThirdStressActive\" to \"on\". ([Detailed instructions here](https://imgur.com/a/PEIZ5G9).)"
 }
